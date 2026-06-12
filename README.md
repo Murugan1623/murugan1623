@@ -9,7 +9,7 @@ Building Intelligent Solutions with AI & Modern Technologies 🚀
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
+- 🎓 AI Student
 - 🤖 Interested in Machine Learning & Artificial Intelligence
 - 🌱 Currently learning Data Science & Cloud Computing
 - 🚀 Building real-world AI projects
