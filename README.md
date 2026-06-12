@@ -13,7 +13,7 @@ Building Intelligent Solutions with AI & Modern Technologies 🚀
 - 🤖 Interested in Machine Learning & Artificial Intelligence
 - 🌱 Currently learning Data Science & Cloud Computing
 - 🚀 Building real-world AI projects
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me:muruganv3092004@gmail.com
 
 ---
 
